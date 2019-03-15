@@ -11,7 +11,7 @@ I know that I'm not very good programmer and i could save much more program memo
 * executing an function by selecting item
 
 ### By modification I mean...
-Library contains basic classes
+Library contains basic classes, like 'label' or 'print', which you can use to customize behavior of an item or build your own from scratch with base classes only
 
 
 ### To be done
